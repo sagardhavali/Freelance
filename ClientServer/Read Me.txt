@@ -1,0 +1,20 @@
+On Linux Machines:
+
+Download all these files in a folder.
+1. Open a Terminal. Navigate to the folder where all these files are stored.
+2. Start server with following command
+	python server.py
+3. Open another terminal (NEW). Navigate to the folder where all these files are stored.
+4. Start client with following command
+	python client.py
+5. Choose your options and see the results.
+
+Note:
+1. You can change the port number accordingly.
+2. This code has been tested on a signle computer (i.e, only on localhost)
+
+----------------------------------------------------------------------------------------
+On Windows Machines:
+
+1. Install Python 2.7 from offical website.
+2. Download all these files in a folder.
